@@ -1,4 +1,5 @@
 package com.mycompany.prog5121_part1;
+//Unit tests for message validation logic
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
