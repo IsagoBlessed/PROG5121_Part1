@@ -1,4 +1,5 @@
 package com.mycompany.prog5121_part1;
+//Module: PROG5121 Part 2 - Message Class Implementation
 
 import java.io.FileWriter;
 import java.io.IOException;
